@@ -11,16 +11,16 @@ export const RUTAS_APP: Routes = [
     component: RutaInicioComponent,
     children:[
       {
-        path:'usuario',
+        path: 'usuario/:id/activo/:estaActivo',
         component:RutaIniUsuarioComponent
       },
       {
-        path:'permisos',
+        path: 'permisos',
         component:RutaIniPermisosComponent
       },
       {
         path: '',
-        redirectTo: 'usuario',
+        redirectTo: 'usuario/1/activo/true',
         pathMatch: 'full'
       },
     ]
