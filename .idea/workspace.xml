@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f478469-c948-435a-9679-37bd1239e10c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/rutas/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/rutas/src/app/app.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rutas/src/app/ruta-ini-usuario/ruta-ini-usuario.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/rutas/src/app/ruta-ini-usuario/ruta-ini-usuario.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rutas/src/app/ruta-inicio/ruta-inicio.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/rutas/src/app/ruta-inicio/ruta-inicio.component.html" afterDir="false" />
-    </list>
+    <list default="true" id="8f478469-c948-435a-9679-37bd1239e10c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -135,7 +131,7 @@
       <path value="$PROJECT_DIR$/rutas/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -223,16 +219,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528493538902</updated>
-      <workItem from="1528493560755" duration="5292000" />
+      <workItem from="1528493560755" duration="5387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5292000" />
+    <option name="totallyTimeSpent" value="5387000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
