@@ -14,7 +14,9 @@ export class RutaIniUsuarioComponent implements OnInit {
 
   ngOnInit() {
     console.log('principio')
-    const  observableParametros$ = this._activatedRoute.params
+    const  observableParametros$ = this.
+      _activatedRoute.params
+
     observableParametros$.subscribe(
       (respuestaOk)=>{
         console.log('Ok', respuestaOk)

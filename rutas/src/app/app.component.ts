@@ -13,7 +13,7 @@ export class AppComponent {
 
   }
   irAInfo(){
-    const url = ['/inicio','hola','como','estas'];
+    const url = ['activo','hola','como','estas'];
     this._router.navigate(url);
   }
   irAFAQ(){
